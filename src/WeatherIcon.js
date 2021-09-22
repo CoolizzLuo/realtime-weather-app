@@ -21,23 +21,7 @@ const weatherTypes = {
   isCloudyFog: [25, 26, 27, 28],
   isCloudy: [2, 3, 4, 5, 6, 7],
   isFog: [24],
-  isPartiallyClearWithRain: [
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    19,
-    20,
-    29,
-    30,
-    31,
-    32,
-    38,
-    39
-  ],
+  isPartiallyClearWithRain: [8, 9, 10, 11, 12, 13, 14, 19, 20, 29, 30, 31, 32, 38, 39],
   isSnowing: [23, 37, 42]
 };
 
